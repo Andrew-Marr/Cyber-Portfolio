@@ -1,2 +1,2 @@
 # Cyber-Portfolio
-My cybersecurity journet - TryHackMe, labs, scripts, certs
+My cybersecurity journey - TryHackMe, labs, scripts, certs
